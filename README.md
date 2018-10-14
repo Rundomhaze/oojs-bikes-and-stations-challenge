@@ -26,7 +26,6 @@
 ## Краткое описание
 Вы должны чувствовать себя всё более и более уверенно при работе с функциями и классами. Обратитесь к преподавателю, если вам сложно понять эти инструкции с теоретической точки зрения или если у вас не получается использовать их при написании кода.
 
-
 [изображение станции]: https://www.google.com/search?q=bike+rental+stations&espv=2&biw=1366&bih=647&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhuaOwsf3LAhUFOiYKHQOZCkwQsAQIGw
 [Error]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
 
