@@ -1,5 +1,5 @@
 describe("a bike station", function() {
-  var station, newerBike, olderBike, bikes
+  let station, newerBike, olderBike, bikes
 
   beforeEach(function() {
     newerBike = new Bike("12345", "red", 2016);
