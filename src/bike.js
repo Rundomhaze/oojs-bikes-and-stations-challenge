@@ -1,1 +1,1 @@
-var Bike = function() {}
+let Bike = function() {}

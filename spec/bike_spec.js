@@ -1,5 +1,5 @@
 describe("a bike", function() {
-  var bike;
+  let bike;
 
   beforeEach(function() {
     bike = new Bike(12847390, "red", 2016)

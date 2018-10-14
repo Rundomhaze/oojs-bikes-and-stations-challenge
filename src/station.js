@@ -1,1 +1,1 @@
-var Station = function() {}
+let Station = function() {}
