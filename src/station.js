@@ -1,1 +1,3 @@
-let Station = function() {}
+class Station {
+
+}
