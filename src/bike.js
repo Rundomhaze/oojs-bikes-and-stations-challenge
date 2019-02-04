@@ -1,1 +1,3 @@
-let Bike = function() {}
+class Bike {
+
+}
