@@ -2,7 +2,7 @@ describe("a bike", function() {
   let bike;
 
   beforeEach(function() {
-    bike = new Bike(12847390, "red", 2016)
+    bike = new Bike(12847390, "red", 2016);
   });
 
   it("has an id number", function() {
