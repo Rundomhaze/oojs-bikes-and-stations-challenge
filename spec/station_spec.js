@@ -5,7 +5,7 @@ describe("a bike station", function() {
     newerBike = new Bike("12345", "red", 2016);
     olderBike = new Bike("67890", "blue", 2015);
 
-    station = new Station("Divvy", "Wood & Division", [newerBike, olderBike])
+    station = new Station("Divvy", "Wood & Division", [newerBike, olderBike]);
   });
 
   it("has a name", function() {
@@ -37,8 +37,8 @@ describe("a bike station", function() {
     });
 
     it("takes multiple bikes at the same time", function() {
-      bike = { id: "4567", color: "red", modelYear: 2010 }
-      station.bikes = [bike]
+      bike = { id: "4567", color: "red", modelYear: 2010 };
+      station.bikes = [bike];
 
       station.takeMultiple([newerBike, olderBike]);
       expect(station.bikes).toEqual([bike, newerBike, olderBike]);
