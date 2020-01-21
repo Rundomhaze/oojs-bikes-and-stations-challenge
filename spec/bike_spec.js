@@ -1,3 +1,5 @@
+const Bike = require('../src/bike');
+
 describe("a bike", function() {
   let bike;
 
