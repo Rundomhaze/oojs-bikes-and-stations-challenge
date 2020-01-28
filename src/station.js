@@ -6,5 +6,4 @@ class Station {
   }
 }
 
-
-module.exports = Station;
+module.exports = { Station };

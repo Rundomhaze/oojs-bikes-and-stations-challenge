@@ -6,5 +6,4 @@ class Bike {
   }
 }
 
-
-module.exports = Bike;
+module.exports = { Bike };
