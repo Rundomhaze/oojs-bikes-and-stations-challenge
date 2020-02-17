@@ -5,6 +5,3 @@ class Bike {
     this.modelYear = modelYear;
   }
 }
-
-
-module.exports = Bike;

@@ -1,6 +1,3 @@
-const Bike = require('../src/bike');
-const Station = require('../src/station');
-
 describe("a bike station", function() {
   let station, newerBike, olderBike
 
