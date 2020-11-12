@@ -5,3 +5,5 @@ class Station {
     this.bikes = bikes;
   }
 }
+
+module.exports = Station;
